@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and working out
 - 🌱 I’m currently learning HTML, CSS, Javascript and C++
 - 💞️ I’m looking to collaborate on any project 
-- 📫 Reach out to me on all socials medias @MaybeMotion
+- 📫 @MaybeMotion on all socials
 
 <!---
 MaybeMotion/MaybeMotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
